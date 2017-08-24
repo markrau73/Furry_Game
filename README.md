@@ -1,2 +1,3 @@
 Simple game built with JavaScript.
-# Furry_Game
+
+[Link to live preview]( https://markrau73.github.io/Furry_Game/)
